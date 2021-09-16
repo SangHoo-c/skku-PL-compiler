@@ -70,29 +70,6 @@ int main(){
 
 
 
-> Recursion 가능 ? 
-> In-line 에 포인터, recursion 가능! = value-binding
->
->  c 에선 reference 대신 value 
->
-> pointer 를 사용해서 recursive
-
-in-line: c, pre-processing / compiling / 
-
-#define f(x)
-
-​	if x < 3
-
-If x < 3 을 copy 하는 것. 
-
-
-
-recursion - send different 
-
-
-
-
-
 
 
 
